@@ -1,0 +1,10 @@
+C:\Documents and Settings\THR01\Desktop\IlkProjem\IlkProjem\bin\Debug\IlkProjem.exe
+C:\Documents and Settings\THR01\Desktop\IlkProjem\IlkProjem\bin\Debug\IlkProjem.pdb
+C:\Documents and Settings\THR01\Desktop\IlkProjem\IlkProjem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\THR01\Desktop\IlkProjem\IlkProjem\obj\x86\Debug\IlkProjem.Form1.resources
+C:\Documents and Settings\THR01\Desktop\IlkProjem\IlkProjem\obj\x86\Debug\IlkProjem.Properties.Resources.resources
+C:\Documents and Settings\THR01\Desktop\IlkProjem\IlkProjem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\THR01\Desktop\IlkProjem\IlkProjem\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\THR01\Desktop\IlkProjem\IlkProjem\obj\x86\Debug\IlkProjem.exe
+C:\Documents and Settings\THR01\Desktop\IlkProjem\IlkProjem\obj\x86\Debug\IlkProjem.pdb
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\1.GÜN\IlkProjem\IlkProjem\obj\x86\Debug\IlkProjem.pdb
